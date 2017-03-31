@@ -55,5 +55,6 @@ __EXPORT int px4_simple_app_main(int argc, char *argv[]);
 int px4_simple_app_main(int argc, char *argv[])
 {
     PX4_INFO("Hello Sky!");
+    PX4_INFO("Bye Sky!");
     return OK;
 }
